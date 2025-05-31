@@ -41,7 +41,7 @@ A data analysis project investigating the trends in Netflix movie durations over
    ```bash
    jupyter notebook
    ```
-4. Open `Investigating-Netflix-Movies_and_Guest_Stars_in_The_Office.ipynb`
+4. Open `index.ipynb`
 
 ## 📈 Analysis Process
 1. Data loading and preprocessing
@@ -53,7 +53,7 @@ A data analysis project investigating the trends in Netflix movie durations over
 ```
 netflix-duration-analytics/
 │
-├── Investigating-Netflix-Movies_and_Guest_Stars_in_The_Office.ipynb
+├── index.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -67,6 +67,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 Amna Mubarak
 
-## 🔗 Contact
-- GitHub: [@yourgithubusername](https://github.com/yourgithubusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
