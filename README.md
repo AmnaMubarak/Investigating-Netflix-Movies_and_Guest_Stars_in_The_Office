@@ -31,7 +31,7 @@ A data analysis project investigating the trends in Netflix movie durations over
 ## 🚀 Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-duration-analytics.git
+   git clone https://github.com/AmnaMubarak/netflix-duration-analytics.git
    ```
 2. Install required packages:
    ```bash
